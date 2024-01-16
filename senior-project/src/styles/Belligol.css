@@ -26,6 +26,7 @@ html, body {
 #belliHead {
     text-align: center;
     padding: 1rem;
+    font-size: 24pt;
 }
 
 #belliContent {
