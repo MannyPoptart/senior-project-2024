@@ -16,7 +16,7 @@ function belligol() {
         <section id='belliContent'>
           <h2>Belligol</h2>
         
-          <iframe width="560" height="560" src="https://www.youtube.com/embed/s6CnJcdRQkU?autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
+          <iframe width="560" height="560" src="src/media/belligol_vid.mp4" title="Belligol Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
           <p>
           BELLIGOOOOOOOOOOOOOOL
           BELLIGOL

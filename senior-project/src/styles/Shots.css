@@ -8,7 +8,7 @@ html, body {
     width: 100%;
 }
 
-.Belli, body {
+.Muggi, body {
     background-image: linear-gradient(180deg, rgb(40, 150, 144) 50%, rgb(255, 255, 255) 100%);
     display: flex;
     flex-direction: column;
