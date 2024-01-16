@@ -4,6 +4,7 @@ import Home from './pages/Home'
 import ErrorPage from './pages/ErrorPage'
 import Belligol from './pages/belligol'
 import MugShots from './pages/MugShots'
+import Socials from './pages/Socials'
 
 const router = createBrowserRouter([
   {
@@ -18,6 +19,10 @@ const router = createBrowserRouter([
   {
     path: '/mugshot',
     element: <MugShots />,
+  },
+  {
+    path: '/socials',
+    element: <Socials />,
   },
   {
     path: '*',
