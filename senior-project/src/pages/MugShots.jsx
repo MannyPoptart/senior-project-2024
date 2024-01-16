@@ -15,7 +15,7 @@ function mugShots() {
           <section id='mugContent'>
 
             <h2>omar5o9</h2>
-            <img src="src/images/omar.png" alt="omar" />
+            <img src="./src/images/omar.png" alt="omar" />
 
             <h2>mannypoptart</h2>
             <img src="src/images/manny.png" alt="manny" />
