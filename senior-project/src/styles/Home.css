@@ -9,7 +9,7 @@ html, body {
 }
 
 .Home, body {
-    background-image: linear-gradient(180deg, green 50%, lime 100%);
+    background-image: linear-gradient(180deg, darkturquoise 25%, lime 100%);
     display: flex;
     flex-direction: column;
     min-height: 100%;
@@ -30,6 +30,7 @@ html, body {
 #homeContent {
     flex-grow: 1;
     padding: 1rem;
+    text-align: center;
     
 }
 

@@ -22,9 +22,6 @@ function mugShots() {
 
             <h2>cr7</h2>
             <img src="src/images/beto.png" alt="beto" />
-
-            <h2>gibbyMain</h2>
-            <img src="src/images/goat.png" alt="goat" />
            
             
           </section>
