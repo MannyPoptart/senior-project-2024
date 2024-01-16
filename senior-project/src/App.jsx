@@ -3,6 +3,7 @@ import {createBrowserRouter, RouterProvider, Route, Link, Outlet} from 'react-ro
 import Home from './pages/Home'
 import ErrorPage from './pages/ErrorPage'
 import Belligol from './pages/belligol'
+import MugShots from './pages/MugShots'
 
 const router = createBrowserRouter([
   {
@@ -13,6 +14,10 @@ const router = createBrowserRouter([
     path: '/belligol',
     element: <Belligol />,
   
+  },
+  {
+    path: '/mugshot',
+    element: <MugShots />,
   },
   {
     path: '*',
