@@ -1,5 +1,6 @@
 import React from 'react'
 import Navbar from '../components/Navbar'
+import monke from '../media/monkey.mp4'
 import '../styles/Home.css'
 
 function Home() {
@@ -16,7 +17,7 @@ function Home() {
 
             <p>Welcome to the Senior Project website!</p>
 
-            <video src="src/media/monkey.mp4" controls width="300" height="560" ></video>
+            <video src={monke} controls width="300" height="560" ></video>
 
         </section>
 

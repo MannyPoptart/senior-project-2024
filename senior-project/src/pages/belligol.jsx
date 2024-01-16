@@ -1,5 +1,6 @@
 import React from 'react'
 import Navbar from '../components/Navbar'
+import belligol from '../media/belligol_vid.mp4'
 import '../styles/Belligol.css'
 
 
@@ -16,7 +17,7 @@ function belligol() {
         <section id='belliContent'>
           <h2>Belligol</h2>
         
-          <iframe width="560" height="560" src="src/media/belligol_vid.mp4" title="Belligol Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
+          <iframe width="560" height="560" src={belligol} title="Belligol Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
           <p>
           BELLIGOOOOOOOOOOOOOOL
           BELLIGOL
