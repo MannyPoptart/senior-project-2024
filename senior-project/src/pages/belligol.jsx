@@ -17,7 +17,7 @@ function belligol() {
         <section id='belliContent'>
           <h2>Belligol</h2>
         
-          <iframe width="560" height="560" src={bell} title="Belligol Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
+          <iframe width="320" height="360" src={bell} title="Belligol Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
           <p>
           BELLIGOOOOOOOOOOOOOOL
           BELLIGOL
@@ -25,7 +25,7 @@ function belligol() {
           O ILUMINADO, DO BELLINGHAM
           </p>
           
-          <img src="https://i.kym-cdn.com/photos/images/newsfeed/002/691/290/48e.jpg" alt="belligol" />
+          <img width='360' height='360'src="https://i.kym-cdn.com/photos/images/newsfeed/002/691/290/48e.jpg" alt="belligol" />
         </section>
 
         <footer id='foot'>
