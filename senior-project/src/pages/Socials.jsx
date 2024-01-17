@@ -4,7 +4,7 @@ import '../styles/Socials.css'
 
 function socials() {
     return (
-      <div className='soci'>
+      <div className='socials'>
   
           <header id='hdr'>
               <h1>Socials</h1>
