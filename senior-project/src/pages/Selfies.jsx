@@ -3,12 +3,12 @@ import Navbar from '../components/Navbar'
 import Omar from '../images/omar.png'
 import '../styles/Shots.css'
 
-function mugShots() {
+function Selfies() {
     return (
-      <div className='Muggi'>
+      <div className='Selfie'>
   
           <header id='mugHead'>
-              <h1>MugShots</h1>
+              <h1>Selfies</h1>
           </header>
   
           <Navbar />

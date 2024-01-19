@@ -3,7 +3,7 @@ import {createBrowserRouter, RouterProvider, Route, Link, Outlet} from 'react-ro
 import Home from './pages/Home'
 import ErrorPage from './pages/ErrorPage'
 import Belligol from './pages/belligol'
-import MugShots from './pages/MugShots'
+import Selfies from './pages/Selfies'
 import Socials from './pages/Socials'
 
 const router = createBrowserRouter([
@@ -18,7 +18,7 @@ const router = createBrowserRouter([
   },
   {
     path: '/mugshot',
-    element: <MugShots />,
+    element: <Selfies />,
   },
   {
     path: '/socials',
