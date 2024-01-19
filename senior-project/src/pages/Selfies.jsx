@@ -36,4 +36,4 @@ function Selfies() {
     )
   }
   
-  export default mugShots
+  export default Selfies

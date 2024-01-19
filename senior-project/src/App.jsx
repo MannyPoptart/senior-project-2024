@@ -17,7 +17,7 @@ const router = createBrowserRouter([
   
   },
   {
-    path: '/mugshot',
+    path: '/selfies',
     element: <Selfies />,
   },
   {
